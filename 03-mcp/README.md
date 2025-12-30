@@ -17,7 +17,7 @@ HTTP/S communication between Remote MCP server and client
 
 Server Primitives 
 @mcp.tool
- tool - afunction will be executed to give response
+ tool - a function will be executed to give response
 @mcp.resource
 resources - retrieves document/ DB data 
 @mcp.prompt
